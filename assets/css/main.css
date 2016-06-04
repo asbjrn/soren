@@ -9,7 +9,7 @@ html{
 }
 body{
     background-color:darkcyan;
-    background-image:url(/assets/img/DEN_SIDSTE_01.jpg);
+    background-image:url(assets/img/DEN_SIDSTE_01.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
@@ -90,7 +90,7 @@ body{
 
 /*-------- This is styling for the bio content -------- */
 #headshot{
-    background-image: url(/assets/img/soren.jpg);
+    background-image: url(assets/img/soren.jpg);
     background-size: cover;
     height:200px;
     width:200px;

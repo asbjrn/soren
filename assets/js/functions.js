@@ -40,6 +40,5 @@ function switchbackground(){
     $(".carouselimage").mouseenter(function(){
         var image = $(this).css("background-image");
         $("body").css("background-image",image);
-        console.log("lol");
     });
 }

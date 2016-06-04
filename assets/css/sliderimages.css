@@ -4,20 +4,20 @@
 }
 
 .slidee li.carouselimage:nth-child(1){
-    background-image:url(/assets/img/DEN_SIDSTE_01.jpg);
+    background-image:url(assets/img/DEN_SIDSTE_01.jpg);
 }
 .slidee li.carouselimage:nth-child(2){
-    background-image:url(/assets/img/DEN_SIDSTE_03.jpg);
+    background-image:url(assets/img/DEN_SIDSTE_03.jpg);
 }
 .slidee li.carouselimage:nth-child(3){
-    background-image:url(/assets/img/DEN_SIDSTE_07.jpg);
+    background-image:url(assets/img/DEN_SIDSTE_07.jpg);
 }
 .slidee li.carouselimage:nth-child(4){
-    background-image:url(/assets/img/DEN_SIDSTE_20.jpg);
+    background-image:url(assets/img/DEN_SIDSTE_20.jpg);
 }
 .slidee li.carouselimage:nth-child(5){
-    background-image:url(/assets/img/DEN_SIDSTE_21.jpg);
+    background-image:url(assets/img/DEN_SIDSTE_21.jpg);
 }
 .slidee li.carouselimage:nth-child(6){
-    background-image:url(/assets/img/DEN_SIDSTE_22.jpg);
+    background-image:url(assets/img/DEN_SIDSTE_22.jpg);
 }
